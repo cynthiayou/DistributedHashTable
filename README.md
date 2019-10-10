@@ -1,4 +1,5 @@
-# DHT Routing Server
+# Implemented various Distributed Hash Table (DHT)  and their corresponding load balancing solutions in Cloud storage systems
+# This is to mimic the DHT solutions in Swift, Cassandra, Redis, Ceph(CRUSH)
 
 ## test
 `test` folder includes test_single.sh which builds and runs a single server with three clients writing and reading random files.  In the `test\log` output logs are written.

@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3d44d15-8a7a-4120-9a29-62128e53a2c6" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>shrink</find>
+      <find>expand</find>
+      <find>updatein</find>
+      <find>update</find>
+      <find>updateI</find>
+      <find>read</find>
+      <find>elastic</find>
+      <find>txt</find>
+      <find>iterator</find>
+      <find>buckets =</find>
+      <find>physicalNode</find>
+      <find>buckets table</find>
+      <find>from</find>
+      <find>is added</find>
+      <find>the node of</find>
+      <find>addNode</find>
+      <find>table size</find>
+      <find>success</find>
+      <find>random</find>
+      <find>207</find>
+      <find>test</find>
+      <find>path</find>
+      <find>COMMANDS</find>
+      <find>MAIN</find>
+      <find>CCco</find>
+      <find>CCcommands</find>
+      <find>CCc</find>
+      <find>xml</find>
+      <find>xmlPath</find>
+      <find>main</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>VirtualNode</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/dht/Ring/LookupTable.java" />
+        <option value="$PROJECT_DIR$/src/dht/Ring/VirtualNode.java" />
+        <option value="$PROJECT_DIR$/src/dht/Ring/Indexable.java" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_distributed/Config.java" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_centralized/Init_Nodes.java" />
+        <option value="$PROJECT_DIR$/src/dht/Ring/Config_Ring.xml" />
+        <option value="$PROJECT_DIR$/src/dht/Ring/Initialization.java" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_centralized/LookupTable.java" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_distributed/PhysicalNode.java" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_distributed/config_ElasticDHT.xml" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_distributed/HashAndReplicationConfig.java" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_distributed/LookupTable.java" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_distributed/ProxyServer.java" />
+        <option value="$PROJECT_DIR$/src/dht/Ring/BinarySearchList.java" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_centralized/HashAndReplicationConfig.java" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_centralized/PhysicalNode.java" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_centralized/Proxy.java" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_centralized/elastic_CCcommands.txt" />
+        <option value="$PROJECT_DIR$/src/dht/Ring/PhysicalNode.java" />
+        <option value="$PROJECT_DIR$/src/dht/Ring/config_ring.xml" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_centralized/config_ElasticDHT.xml" />
+        <option value="$PROJECT_DIR$/src/dht/Ring/ProxyServer.java" />
+        <option value="$PROJECT_DIR$/src/dht/elastic_DHT_centralized/ProxyServer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="819" />
+    <option name="y" value="204" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="read&#9;FILE&#9;jar://C:/Users/cynth/IdeaProjects/cs6343TeamProject/lib/dom4j-2.1.1.jar!/org/dom4j/io/SAXReader.class" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dht.elastic_DHT_distributed" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cynth\IdeaProjects\cs6343TeamProject\src\dht\elastic_DHT_distributed" />
+      <recent name="C:\Users\cynth\IdeaProjects\cs6343TeamProject\src\dht\elastic_DHT_centralized" />
+      <recent name="C:\Users\cynth\IdeaProjects\cs6343TeamProject\src\dht\Ring" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ProxyServer">
+    <configuration name="ProxyServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dht.Ring.ProxyServer" />
+      <module name="cs6343TeamProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dht.Ring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dht.elastic_DHT_centralized.ProxyServer" />
+      <module name="cs6343TeamProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dht.elastic_DHT_centralized.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="cs6343TeamProject1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProxyServer (1)" />
+      <item itemvalue="Application.ProxyServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProxyServer" />
+        <item itemvalue="Application.ProxyServer (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3d44d15-8a7a-4120-9a29-62128e53a2c6" name="Default" comment="" />
+      <created>1540396349784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540396349784</updated>
+    </task>
+    <task id="LOCAL-00001" summary="changed the return type from void to String for addNode, deleteNode, dataTransfer in Ring;&#10;changed the input parameter from VirtualNode to int(hash) in loadBalance() in ring;&#10;deleted Indexable class and simplified the code">
+      <created>1540400588720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540400588720</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added addNode, deleteNode, and loadBalance methods for Elastic DHT (centralized)">
+      <created>1540436168098</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540436168098</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated the design for Elastic DHT (distributed)">
+      <created>1540436811376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540436811376</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added config_ring.xml,&#10;added a constructor in PhysicalNode&#10;added initializeRing() method in ProxyServer to initialize the ring cluster">
+      <created>1540771314890</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540771314890</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Made replicaLevel configurable (with a default value of 3) and modified addNode, deleteNode, loadBalance accordingly in DHT Ring">
+      <created>1540778862537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540778862537</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed the return String in deleteNode() in PhysicalNode in Ring,&#10;Changed the return type of initializeRing() in ProxyServer in Ring">
+      <created>1540782322038</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540782322038</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added dataTransfer() method to return detailed description of data transfered,&#10;fixed a bug in loadBalance() method">
+      <created>1540823127737</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540823127737</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixed a bug in deleteNode() method for elastic DHT (centralized version),&#10;added configuration file and the initializeEDHT() method for cluster initialization of elastic DHT (centralized version)">
+      <created>1540870116352</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540870116352</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Completed the design for elastic DHT(distributed version),&#10;Added configuration file and initializeEDHT() method fro elastic DHT(distributed version)">
+      <created>1540872357484</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540872357484</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added expandTable() and shrinkTable() methods for elastic_DHT_centralized">
+      <created>1540918096102</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540918096102</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added expandTable() and shrinkTable() methods for elastic_DHT_distributed">
+      <created>1540918669715</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540918669715</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added HashAndReplicationConfig.java to set the hash range and replication level (to make table expandable and shrinkable)">
+      <created>1540920162269</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1540920162269</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added HashAndReplicationConfig.java to set the hash range and replication level (to make table expandable and shrinkable)">
+      <created>1540920182553</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540920182553</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added an addNode() method to add a physical node that maps to more than 1 virtual nodes">
+      <created>1541524882401</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1541524882401</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added an getReplicas() method to return the nodeIDs of replicas for each hash value in Elastic DHT">
+      <created>1541525391653</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1541525391653</updated>
+    </task>
+    <task id="LOCAL-00016" summary="changed the initial hash range for ring from 10000 to 1000">
+      <created>1541976569079</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1541976569080</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge branch 'master' of https://github.com/yfliu92/cs6343TeamProject">
+      <created>1541978534116</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1541978534117</updated>
+    </task>
+    <task id="LOCAL-00018" summary="changed total_CCcomands (the number of initial central client commands) from 100 to 1000 in the configuration file">
+      <created>1541979200352</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1541979200352</updated>
+    </task>
+    <task id="LOCAL-00019" summary="changed total_CCcomands (the number of initial central client commands) from 1000 to 500 in the configuration file;&#10;fixed a bug in CCcommands() method in ProxyServer">
+      <created>1541980528891</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1541980528891</updated>
+    </task>
+    <task id="LOCAL-00020" summary="changed the xmlpath in ProxyServer in ring">
+      <created>1541989731998</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1541989731998</updated>
+    </task>
+    <task id="LOCAL-00021" summary="changed the fileWriter in ring;&#10;changed the configuration file in ring;">
+      <created>1542005116883</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1542005116883</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added the &quot;elastic_CCcommands.txt&quot; file (will include 500 control client commands after initialization) for elastic_DHT_centralized">
+      <created>1542006052265</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1542006052265</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added the &quot;elastic_CCcommands.txt&quot; file (will include 500 control client commands after initialization) for elastic_DHT_centralized;&#10;Deleted the elastic_DHT_distributed folder">
+      <created>1542006229619</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1542006229619</updated>
+    </task>
+    <task id="LOCAL-00024" summary="modified the updateIndex method in BinarySearchList;&#10;added the usage of updateIndex in addNode, deleteNode, and loadBalance for Ring">
+      <created>1542059779534</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1542059779535</updated>
+    </task>
+    <task id="LOCAL-00025" summary="changed the configuration file (set hash range to 100,000) for both ring and elastic;&#10;fixed a bug that causes negative hash values in ring;&#10;made some adjustments to improve the efficiency of elastic DHT">
+      <created>1542171354775</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1542171354775</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added an attribute &quot;hashBuckets&quot; in PhysicalNode class to improve the efficiency of elastic DHT;&#10;Changed the default path of the &quot;ring_CCcommands.txt&quot; to the ring folder">
+      <created>1542257956876</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1542257956876</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added &quot;ring_CCcommands.txt&quot; to versioned files">
+      <created>1542258019663</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1542258019663</updated>
+    </task>
+    <task id="LOCAL-00028" summary="changed ips">
+      <created>1542661909090</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1542661909090</updated>
+    </task>
+    <task id="LOCAL-00029" summary="regenerated the loadbalance and add/delete commands for Ring with localhost">
+      <created>1544841027066</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1544841027066</updated>
+    </task>
+    <task id="LOCAL-00030" summary="regenerated the loadbalance and add/delete commands for ElasticDHT with localhost">
+      <created>1544843471862</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1544843471862</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29554656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49554655" weight="0.3291592" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7327935" weight="0.27906978" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49878544" weight="0.3291592" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49959514" weight="0.3291592" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.43157893" side_tool="true" visible="true" weight="0.19360569" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.56842107" weight="0.19360569" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49392712" weight="0.41860464" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Made replicaLevel configurable (with a default value of 3) and modified addNode, deleteNode, loadBalance accordingly in DHT Ring" />
+    <MESSAGE value="Fixed the return String in deleteNode() in PhysicalNode in Ring,&#10;Changed the return type of initializeRing() in ProxyServer in Ring" />
+    <MESSAGE value="added dataTransfer() method to return detailed description of data transfered,&#10;fixed a bug in loadBalance() method" />
+    <MESSAGE value="fixed a bug in deleteNode() method for elastic DHT (centralized version),&#10;added configuration file and the initializeEDHT() method for cluster initialization of elastic DHT (centralized version)" />
+    <MESSAGE value="Completed the design for elastic DHT(distributed version),&#10;Added configuration file and initializeEDHT() method fro elastic DHT(distributed version)" />
+    <MESSAGE value="Added expandTable() and shrinkTable() methods for elastic_DHT_centralized" />
+    <MESSAGE value="Added expandTable() and shrinkTable() methods for elastic_DHT_distributed" />
+    <MESSAGE value="added HashAndReplicationConfig.java to set the hash range and replication level (to make table expandable and shrinkable)" />
+    <MESSAGE value="added an addNode() method to add a physical node that maps to more than 1 virtual nodes" />
+    <MESSAGE value="added an getReplicas() method to return the nodeIDs of replicas for each hash value in Elastic DHT" />
+    <MESSAGE value="changed the initial hash range for ring from 10000 to 1000" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/yfliu92/cs6343TeamProject" />
+    <MESSAGE value="changed total_CCcomands (the number of initial central client commands) from 100 to 1000 in the configuration file" />
+    <MESSAGE value="changed total_CCcomands (the number of initial central client commands) from 1000 to 500 in the configuration file;&#10;fixed a bug in CCcommands() method in ProxyServer" />
+    <MESSAGE value="changed the xmlpath in ProxyServer in ring" />
+    <MESSAGE value="changed the fileWriter in ring;&#10;changed the configuration file in ring;" />
+    <MESSAGE value="added the &quot;elastic_CCcommands.txt&quot; file (will include 500 control client commands after initialization) for elastic_DHT_centralized" />
+    <MESSAGE value="added the &quot;elastic_CCcommands.txt&quot; file (will include 500 control client commands after initialization) for elastic_DHT_centralized;&#10;Deleted the elastic_DHT_distributed folder" />
+    <MESSAGE value="modified the updateIndex method in BinarySearchList;&#10;added the usage of updateIndex in addNode, deleteNode, and loadBalance for Ring" />
+    <MESSAGE value="changed the configuration file (set hash range to 100,000) for both ring and elastic;&#10;fixed a bug that causes negative hash values in ring;&#10;made some adjustments to improve the efficiency of elastic DHT" />
+    <MESSAGE value="added an attribute &quot;hashBuckets&quot; in PhysicalNode class to improve the efficiency of elastic DHT;&#10;Changed the default path of the &quot;ring_CCcommands.txt&quot; to the ring folder" />
+    <MESSAGE value="added &quot;ring_CCcommands.txt&quot; to versioned files" />
+    <MESSAGE value="changed ips" />
+    <MESSAGE value="regenerated the loadbalance and add/delete commands for Ring with localhost" />
+    <MESSAGE value="regenerated the loadbalance and add/delete commands for ElasticDHT with localhost" />
+    <option name="LAST_COMMIT_MESSAGE" value="regenerated the loadbalance and add/delete commands for ElasticDHT with localhost" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>System.out.println(&quot;Buckets table size &quot; + lookupTable.getBucketsTable().size());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/ReplicaPlacementAlgorithm.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/client/auto_generate_client_cmd.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_distributed/LookupTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_distributed/config_ElasticDHT.xml" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/commands/AddNodeCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/commands/CommandResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/commands/LoadBalancingCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/commands/ReadCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/commands/ServerCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/commands/WriteCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_distributed/PhysicalNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/server/RequestRouter.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/server/method/ReadBaseMethod.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/RingReplicaAlgorithm.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/ProxyServer.class" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Random.java" />
+    <entry file="file://$PROJECT_DIR$/ring_CCcommands.txt" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_distributed/HashAndReplicationConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_distributed/ProxyServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/CentralServer.java" />
+    <entry file="file://$PROJECT_DIR$/elastic_CCcommands.txt" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/utils/GenerateControlClientCommandUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/utils/RushUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_centralized/HashAndReplicationConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/ring_CCcommands.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/HashMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_centralized/elastic_CCcommands.txt" />
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/ring_CCcommands.txt" />
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/VirtualNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/BinarySearchList.class" />
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/LookupTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/BinarySearchList.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_centralized/LookupTable.java" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/ceph_config.xml" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/utils/ConfigurationUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/config_ring.xml" />
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/PhysicalNode.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/io/FileInputStream.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/dom4j-2.1.1.jar!/org/dom4j/io/SAXReader.class" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_centralized/Proxy.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_centralized/ProxyServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_centralized/add_delete_commands.txt" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_centralized/loadbalance_commands.txt" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_centralized/PhysicalNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/add_delete_commands.txt" />
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/loadbalance_commands.txt" />
+    <entry file="file://$PROJECT_DIR$/src/dht/rush/cephControlClient.txt" />
+    <entry file="file://$PROJECT_DIR$/src/dht/elastic_DHT_centralized/config_ElasticDHT.xml" />
+    <entry file="file://$PROJECT_DIR$/src/dht/Ring/ProxyServer.java" />
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$/gossip" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cs6343TeamProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
